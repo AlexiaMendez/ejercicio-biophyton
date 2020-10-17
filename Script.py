@@ -1,5 +1,5 @@
+
 from Bio import SeqIO
-from Bio.SeqFeature import FeatureLocation, SeqFeature
 from Bio.SeqRecord import SeqRecord
 import os
 
