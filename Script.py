@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from Bio.Seq import Seq
 from Bio.SeqFeatures import SeqFeature, FeatureLocation
 from Bio import SeqIO
